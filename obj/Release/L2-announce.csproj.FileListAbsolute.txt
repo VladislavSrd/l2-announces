@@ -1,0 +1,11 @@
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\bin\Release\L2-announce.exe.config
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\bin\Release\L2-announce.exe
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\bin\Release\L2-announce.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\bin\Release\HtmlAgilityPack.dll
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\bin\Release\HtmlAgilityPack.xml
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\obj\Release\L2_announce.Form1.resources
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\obj\Release\L2_announce.Properties.Resources.resources
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\obj\Release\L2-announce.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\obj\Release\L2-announce.exe
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\obj\Release\L2-announce.pdb

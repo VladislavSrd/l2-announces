@@ -1,0 +1,12 @@
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\bin\Debug\L2-announce.exe.config
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\bin\Debug\L2-announce.exe
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\bin\Debug\L2-announce.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\obj\Debug\L2_announce.Form1.resources
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\obj\Debug\L2_announce.Properties.Resources.resources
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\obj\Debug\L2-announce.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\obj\Debug\L2-announce.exe
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\obj\Debug\L2-announce.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\L2-announce\L2-announce\obj\Debug\L2-announce.csprojResolveAssemblyReference.cache
